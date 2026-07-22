@@ -10,5 +10,4 @@ target/
 .vscode/
 lib/pdfjs-code.js
 src/**/*.js
-/dist/
 /bin/cli/
